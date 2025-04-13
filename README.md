@@ -2,7 +2,7 @@
 
 # 💡 Sistema de Gerenciamento de Ordens de Serviço - Oficina Mecânica
 
-Este projeto consiste em um **modelo de dados (DER)** para um sistema de controle e gerenciamento da execução de **ordens de serviço (OS)** em uma **oficina mecânica**.
+Este projeto consiste em um **modelo de dados ER)** para um sistema de controle e gerenciamento da execução de **ordens de serviço (OS)** em uma **oficina mecânica**.
 
 O modelo foi desenvolvido para ser visualizado no [draw.io (diagrams.net)](https://app.diagrams.net)
 
